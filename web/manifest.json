@@ -1,6 +1,6 @@
 {
-    "name": "flutter_application_pruebas_git",
-    "short_name": "flutter_application_pruebas_git",
+    "name": "movie1",
+    "short_name": "movie1",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

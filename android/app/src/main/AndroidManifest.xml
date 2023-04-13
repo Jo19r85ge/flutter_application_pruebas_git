@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.flutter_application_pruebas_git">
+    package="com.example.movie1">
    <application
-        android:label="flutter_application_pruebas_git"
+        android:label="movie1"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
